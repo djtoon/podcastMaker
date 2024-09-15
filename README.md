@@ -2,6 +2,9 @@
 
 This project is an AI-powered podcast generator that creates engaging audio content based on user-specified topics. It utilizes various AI models and services to generate a full podcast experience, including script creation, text-to-speech conversion, and video generation.
 
+### personal note
+This is a side project and prompts arent 100% but i had fun making it
+
 ## Features
 
 - Generate podcast scripts with multiple speakers
