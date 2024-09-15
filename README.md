@@ -31,3 +31,19 @@ This project is an AI-powered podcast generator that creates engaging audio cont
 ## Usage
 
 To generate a podcast, use the `makePodcast` function:
+
+
+
+## TODO
+
+- Add support for Anthropic API for enhanced conversation generation
+- Integrate OpenAI API for additional AI capabilities
+- Explore and implement other AI APIs for creating more diverse and engaging conversation scripts
+- Incorporate Eleven Labs for improved text-to-speech functionality
+- Implement a user interface for easier interaction with the podcast generation process
+- Add support for multiple languages and accents in the generated podcasts
+- Implement error handling and logging for better debugging and maintenance
+- Create a configuration file for easy management of API keys and settings
+- Add unit tests and integration tests to ensure code reliability
+- Optimize performance for faster podcast generation
+
